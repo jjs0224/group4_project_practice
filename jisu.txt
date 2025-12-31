@@ -2,3 +2,4 @@ created by jisu
 this is group project practice
 
 added ai function`
+hi
