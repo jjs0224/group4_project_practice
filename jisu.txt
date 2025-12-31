@@ -1,8 +1,13 @@
 created by jisu 
 this is group project practice
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 added ai function`
 =======
+=======
+
+added ai function`
+>>>>>>> origin/develop
 hi
 >>>>>>> origin/develop
